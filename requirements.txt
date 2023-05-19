@@ -1,0 +1,6 @@
+Flask==2.3.2
+# flask_sqlalchemy
+# Flask-Bootstrap==3.3.7.1
+# Flask-WTF==1.1.1
+# Jinja2==3.1.2
+# WTForms==3.0.1
